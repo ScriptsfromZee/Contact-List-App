@@ -29,7 +29,7 @@ Clone the repository with git clone https://github.com/ScriptsfromZee/Contact-Li
 
 To get the current working tree, git fetch --all, then checkout to "main" branch.
 
-Finally, run the test scripts within the login.cy.js file by doing the following:
+Finally, run the test scripts within the e2e folder by doing the following:
 
 Navigate to the root directory with a command line terminal.
 
