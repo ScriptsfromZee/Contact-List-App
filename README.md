@@ -12,4 +12,29 @@ The primary goal of this project is to ensure the reliability and functionality 
 User Sign-In: Verifies that existing users can log into their accounts.
 
 Adding Contacts: Tests the functionality of adding new contacts to the user's list.
-"# Contact-List-App" 
+
+## Prerequisites
+
+Have an IDE installed on your computer to be able to view the code locally.
+
+Have a good working knowledge of Git and Github and well as JavaScript.
+
+Have a browser installed on your computer.
+
+## Setup
+
+Open a command line terminal (Git bash preferrably) and navigate to a directory where you would like to save the work folder using cd.
+
+Clone the repository with git clone https://github.com/ScriptsfromZee/Contact-List-App
+
+To get the current working tree, git fetch --all, then checkout to "main" branch.
+
+Finally, run the test scripts within the login.cy.js file by doing the following:
+
+Navigate to the root directory with a command line terminal.
+
+Run npm install, this install all the project dependencies.
+
+If you have chrome installed run npm run cy-chrome or npm run cy-firefox if you have firefox installed to start the test.
+
+
